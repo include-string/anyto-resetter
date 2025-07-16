@@ -100,8 +100,9 @@ if __name__ == '__main__':
 
     print("\nLaunch imyfone now? (y/n): ", end="")
     if input().strip().lower() == 'y':
+        print("Launching... Program will automatically close")
         launch()
     else:
-        print("Launching... Program will automatically close")
+        print("Program will close")
         time.sleep(2)
         sys.exit(0)

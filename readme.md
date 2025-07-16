@@ -1,6 +1,10 @@
 # iMyFone Unlimited Trial Exploit
 This script abuses a bug in iMyFone's software to reset the trial period to allow unlimited use.
 
+https://www.imyfone.com/
+
+This project focuses on the "AnyTo" software, allowing iOS users to easily spoof their device locations.
+
 Because trial periods are stored LOCALLY in the registry, this script clears the existing trial data to represent a "new user".
 
 - Project Creation Time: 2 hours
